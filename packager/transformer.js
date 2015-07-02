@@ -28,6 +28,7 @@ function transform(srcTxt, filename, options) {
       'es6.properties.shorthand',
       'es6.spread',
       'es6.templateLiterals',
+      'es6.modules',
       'es7.trailingFunctionCommas',
       'es7.objectRestSpread',
       'flow',
