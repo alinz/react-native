@@ -45,7 +45,7 @@
   },
   "dependencies": {
     "absolute-path": "0.0.0",
-    "babel": "git+ssh://git@github.com:babel/babel.git#64e7164b558aeec289760445f1d4e853e81f4fdd",
+    "babel": "^5.6.11",
     "bluebird": "^2.9.21",
     "chalk": "^1.0.0",
     "connect": "2.8.3",
