@@ -11,7 +11,7 @@ on run argv
   set theURL to item 1 of argv
 
   tell application "Chrome"
-    activate
+    -- activate
 
     if (count every window) = 0 then
       make new window
