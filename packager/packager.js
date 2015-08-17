@@ -231,6 +231,7 @@ function getAppMiddleware(options) {
     projectRoots: options.projectRoots,
     blacklistRE: blacklist(options.platform),
     cacheVersion: '2',
+    resetCache: true,
     transformModulePath: transformerPath,
     assetRoots: options.assetRoots,
     assetExts: ['png', 'jpeg', 'jpg'],
